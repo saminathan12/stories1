@@ -1,0 +1,221 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    
+
+   
+}
+#back{
+    background-color: black;
+    margin: 0%;
+}
+#display{
+    padding-left: 66px;
+    margin-left: 0%;
+    display: flex;
+    background: linear-gradient(to right,blue,rgb(255, 0, 0));
+    
+}
+#header{
+    font-family: myfont;
+    text-align: left;
+    margin: 20px;
+    
+    font-family: 'Black Ops One', cursive;
+    font-size: 30px;
+    color: white;
+    
+
+}
+#unorder{
+   
+    list-style-type: none;
+    display: flex;
+    font-size: 20px;
+    font-family: 'Black Ops One', cursive;
+    margin: 25px;
+    
+   
+    
+}
+.list{
+    color: rgb(255, 255, 255);
+    margin: 5px;   
+}
+.live {
+    display: flex;
+    margin-left: 450px;
+    border-style: solid;
+    color: white;
+    background-color: blue;
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 6px 30px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    
+      
+}
+.section{
+    padding: 60px;
+    display: flex;
+   
+}
+.section h1{
+    padding: 34px;
+    margin: 30px 5px ;
+    color: white;   
+}
+.section img{
+    margin: 60px;
+
+
+}
+#img1{
+    height: 60%;
+    width: 60%;
+}
+#img2{
+    height: 29%;
+    width: 29%;
+}
+#p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 12px 12px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+}
+.section2{
+    margin-left: 0%;
+    
+}
+.section2 h2{
+    color: rgb(255, 255, 255);
+    border: solid;
+    border-color: blue;
+    margin: 0%;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Fuggles', cursive;
+}
+.section2 ul{
+    display: flex;
+    padding: 10px;
+    margin: 30px;
+    list-style-type: none;
+    font-family: 'Kenia', cursive; 
+
+}
+.section2 h3{
+    color: white;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.list2{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    margin: 14px;
+    font-size: 16px;
+    border: none;
+    padding: 3px;
+    border-radius: 20px;
+}
+.list2:hover{
+    background-color: rgb(6, 43, 255);
+    color: rgb(255, 255, 255);
+    padding: 3px;
+    cursor: pointer;
+}
+#h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    border-style: dashed;
+    border-color: blue;
+    list-style-type: none;
+    font-family: 'Kenia', cursive; 
+
+}
+.slide{
+    margin: 7px;
+    width: 100%;
+}
+
+.slide p{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Kenia', cursive;
+    font-family: 'Pacifico', cursive;
+}
+.img1{
+    margin-top:7px;
+    height: 25%;
+    width: 25%;
+    float: right;
+    
+}
+.slide2{
+    
+    width: 100%;
+    margin: 5px;
+ }
+ 
+ .slide2 p1{
+     color: rgb(255, 255, 255);
+     font-size: 30px;
+     font-family: 'Kenia', cursive;
+     font-family: 'Pacifico', cursive;
+ }
+ .img2{
+     margin: 7px;
+     height: 25%;
+     width: 25%;
+     float: left;
+     
+ }
+ .slide3{
+    
+    width: 100%;
+    margin: 5px;
+ }
+ 
+ .slide3 p2{
+     color: rgb(253, 253, 253);
+     font-size: 30px;
+     font-family: 'Kenia', cursive;
+     font-family: 'Pacifico', cursive;
+ }
+ .img3{
+     margin: 7px;
+     height: 25%;
+     width: 25%;
+     float: right;
+     
+ }
+ .slide4{
+    
+    width: 100%;
+    margin: 5px;
+ }
+ 
+ .slide4 p3{
+     color: rgb(253, 253, 253);
+     font-size: 30px;
+     font-family: 'Kenia', cursive;
+     font-family: 'Pacifico', cursive;
+ }
+ .img4{
+     margin: 7px;
+     height: 25%;
+     width: 25%;
+     float: right;
+     
+ }
